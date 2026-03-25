@@ -1,6 +1,8 @@
 📦 Atividade de Flexbox
 📚 Descrição
 
+TODO O TRABALHO FOI FEITO COM BASE NOS CÓDIGOS PASSADOS EM AULA ONDE APENAS EDITAMOS AS INFORMAÇÕES JUNTAMENTE COM OS PROFESSORES PARA ENVIO DA ATIVIDADE
+
 Este repositório contém atividades práticas realizadas em sala de aula com foco no uso de Flexbox (Flexible Box Layout), uma técnica de layout do CSS que facilita a organização, alinhamento e distribuição de elementos em uma página web.
 
 O objetivo das atividades foi compreender na prática como posicionar elementos de forma responsiva e eficiente.
